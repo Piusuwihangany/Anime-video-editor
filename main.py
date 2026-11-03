@@ -56,4 +56,5 @@ class AnimeOfficialApp(App):
 
 if __name__ == "__main__":
     AnimeOfficialApp().run()
-          
+
+        
