@@ -85,7 +85,7 @@ class AnimeOfficialAI(App):
                 height=52,
                 background_normal="",
                 background_color=get_color_from_hex("#1769AA"),
-                color=get_color_from_hex("#FFFFFF)
+                color=get_color_from_hex("#FFFFFF")
             )
             button.bind(on_release=action)
             root.add_widget(button)
